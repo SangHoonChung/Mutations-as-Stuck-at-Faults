@@ -1,0 +1,23 @@
+fault,min_kill_pattern,n_drugs,max_apop_propensity,detectable
+STAT3 constitutive (IL-6/JAK),UNDETECTABLE,,0.558,False
+AKT activation,Btz,1,1.0,True
+RAS/MAPK (KRAS/NRAS/BRAF),Dex,1,1.0,True
+Wnt / beta-catenin,Dex,1,1.0,True
+NF-kB constitutive,Dex,1,1.0,True
+TRAF3 loss / NIK amp (noncanon.),Dex,1,1.0,True
+RANKL axis (bone),Dex,1,1.0,True
+NF-kB upstream (TNF),Dex,1,1.0,True
+MYC rearrangement,Dex,1,1.0,True
+IRF4 high,Dex,1,1.0,True
+CCND t(11;14)/t(14;16)/t(4;14),Dex,1,1.0,True
+CDK4/6 activation,Dex,1,1.0,True
+RB1 loss,Dex,1,1.0,True
+mTOR activation,Dex,1,1.0,True
+PI3K activation,Btz,1,1.0,True
+IGF-1 axis,Btz,1,1.0,True
+1q21 gain / MCL1 amp,Dex,1,1.0,True
+BCL-XL/BCL-2 high,Dex,1,1.0,True
+TP53 loss (del17p),Dex,1,1.0,True
+PTEN loss,Btz,1,1.0,True
+BIM (BCL2L11) deletion,Btz,1,1.0,True
+CRBN loss (Len resistance),Dex,1,1.0,True

@@ -1,0 +1,13 @@
+readout_variant,rho_vs_baseline,best_preserved,top3_preserved
+drop MYC,0.972,True,False
+drop CCND2,0.993,True,False
+drop E2F,1.0,True,True
+drop NFKB,1.0,True,True
+drop ANTIAPOP,1.0,True,True
+drop VEGF,1.0,True,True
+drop CDK46,1.0,True,True
+drop SURVIVAL,1.0,True,True
+squared (on/8)^2,0.993,True,True
+binary @0.5,0.818,False,False
+proliferation-only(4),0.93,False,False
+survival-axis(4),0.958,True,False

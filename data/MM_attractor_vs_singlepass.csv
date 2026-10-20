@@ -1,0 +1,353 @@
+regimen,fault,singlepass_burden,attractor_residual,n_attractors
+Untreated,STAT3 constitutive (IL-6/JAK),0.625,0.614,2
+Untreated,AKT activation,0.875,0.875,1
+Untreated,RAS/MAPK (KRAS/NRAS/BRAF),0.5,0.731,3
+Untreated,Wnt / beta-catenin,0.25,0.477,3
+Untreated,NF-kB constitutive,0.625,0.625,1
+Untreated,TRAF3 loss / NIK amp (noncanon.),0.625,0.625,1
+Untreated,RANKL axis (bone),0.625,0.625,1
+Untreated,NF-kB upstream (TNF),0.625,0.625,1
+Untreated,MYC rearrangement,0.25,0.5,1
+Untreated,IRF4 high,0.0,0.25,1
+Untreated,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.125,1
+Untreated,CDK4/6 activation,0.25,0.25,1
+Untreated,RB1 loss,0.125,0.125,1
+Untreated,mTOR activation,0.25,0.473,3
+Untreated,PI3K activation,0.875,0.875,1
+Untreated,IGF-1 axis,0.875,0.875,1
+Untreated,1q21 gain / MCL1 amp,0.25,0.25,1
+Untreated,BCL-XL/BCL-2 high,0.25,0.25,1
+Untreated,TP53 loss (del17p),0.0,0.0,1
+Untreated,PTEN loss,0.875,0.875,1
+Untreated,BIM (BCL2L11) deletion,0.0,0.0,1
+Untreated,CRBN loss (Len resistance),0.0,0.0,1
+Isa,STAT3 constitutive (IL-6/JAK),0.625,0.466,4
+Isa,AKT activation,0.875,0.51,2
+Isa,RAS/MAPK (KRAS/NRAS/BRAF),0.5,0.444,3
+Isa,Wnt / beta-catenin,0.25,0.333,4
+Isa,NF-kB constitutive,0.625,0.479,2
+Isa,TRAF3 loss / NIK amp (noncanon.),0.625,0.385,2
+Isa,RANKL axis (bone),0.625,0.365,2
+Isa,NF-kB upstream (TNF),0.625,0.438,2
+Isa,MYC rearrangement,0.25,0.321,2
+Isa,IRF4 high,0.0,0.19,2
+Isa,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+Isa,CDK4/6 activation,0.25,0.0,1
+Isa,RB1 loss,0.125,0.0,1
+Isa,mTOR activation,0.25,0.342,3
+Isa,PI3K activation,0.875,0.569,2
+Isa,IGF-1 axis,0.875,0.518,2
+Isa,1q21 gain / MCL1 amp,0.25,0.25,1
+Isa,BCL-XL/BCL-2 high,0.25,0.25,1
+Isa,TP53 loss (del17p),0.0,0.0,1
+Isa,PTEN loss,0.875,0.489,2
+Isa,BIM (BCL2L11) deletion,0.0,0.0,1
+Isa,CRBN loss (Len resistance),0.0,0.0,1
+Dara,STAT3 constitutive (IL-6/JAK),0.625,0.489,4
+Dara,AKT activation,0.875,0.598,2
+Dara,RAS/MAPK (KRAS/NRAS/BRAF),0.5,0.462,4
+Dara,Wnt / beta-catenin,0.25,0.312,3
+Dara,NF-kB constitutive,0.625,0.469,2
+Dara,TRAF3 loss / NIK amp (noncanon.),0.625,0.406,2
+Dara,RANKL axis (bone),0.625,0.385,2
+Dara,NF-kB upstream (TNF),0.625,0.432,2
+Dara,MYC rearrangement,0.25,0.358,2
+Dara,IRF4 high,0.0,0.177,2
+Dara,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+Dara,CDK4/6 activation,0.25,0.0,1
+Dara,RB1 loss,0.125,0.0,1
+Dara,mTOR activation,0.25,0.288,3
+Dara,PI3K activation,0.875,0.583,2
+Dara,IGF-1 axis,0.875,0.54,2
+Dara,1q21 gain / MCL1 amp,0.25,0.25,1
+Dara,BCL-XL/BCL-2 high,0.25,0.25,1
+Dara,TP53 loss (del17p),0.0,0.0,1
+Dara,PTEN loss,0.875,0.598,2
+Dara,BIM (BCL2L11) deletion,0.0,0.0,1
+Dara,CRBN loss (Len resistance),0.0,0.0,1
+V (Btz),STAT3 constitutive (IL-6/JAK),0.625,0.268,6
+V (Btz),AKT activation,0.5,0.0,3
+V (Btz),RAS/MAPK (KRAS/NRAS/BRAF),0.5,0.0,3
+V (Btz),Wnt / beta-catenin,0.25,0.0,3
+V (Btz),NF-kB constitutive,0.625,0.333,2
+V (Btz),TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+V (Btz),RANKL axis (bone),0.0,0.0,1
+V (Btz),NF-kB upstream (TNF),0.0,0.0,1
+V (Btz),MYC rearrangement,0.25,0.0,1
+V (Btz),IRF4 high,0.0,0.0,1
+V (Btz),CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+V (Btz),CDK4/6 activation,0.25,0.0,1
+V (Btz),RB1 loss,0.125,0.0,1
+V (Btz),mTOR activation,0.25,0.0,3
+V (Btz),PI3K activation,0.5,0.0,3
+V (Btz),IGF-1 axis,0.5,0.0,3
+V (Btz),1q21 gain / MCL1 amp,0.125,0.0,1
+V (Btz),BCL-XL/BCL-2 high,0.25,0.25,1
+V (Btz),TP53 loss (del17p),0.0,0.0,1
+V (Btz),PTEN loss,0.5,0.0,3
+V (Btz),BIM (BCL2L11) deletion,0.0,0.0,1
+V (Btz),CRBN loss (Len resistance),0.0,0.0,1
+d (Dex),STAT3 constitutive (IL-6/JAK),0.625,0.532,3
+d (Dex),AKT activation,0.5,0.466,3
+d (Dex),RAS/MAPK (KRAS/NRAS/BRAF),0.5,0.0,3
+d (Dex),Wnt / beta-catenin,0.25,0.0,3
+d (Dex),NF-kB constitutive,0.5,0.0,1
+d (Dex),TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+d (Dex),RANKL axis (bone),0.0,0.0,1
+d (Dex),NF-kB upstream (TNF),0.0,0.0,1
+d (Dex),MYC rearrangement,0.25,0.0,1
+d (Dex),IRF4 high,0.0,0.0,1
+d (Dex),CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+d (Dex),CDK4/6 activation,0.25,0.0,1
+d (Dex),RB1 loss,0.125,0.0,1
+d (Dex),mTOR activation,0.25,0.0,3
+d (Dex),PI3K activation,0.5,0.35,6
+d (Dex),IGF-1 axis,0.5,0.211,6
+d (Dex),1q21 gain / MCL1 amp,0.125,0.0,1
+d (Dex),BCL-XL/BCL-2 high,0.125,0.0,1
+d (Dex),TP53 loss (del17p),0.0,0.0,1
+d (Dex),PTEN loss,0.5,0.134,6
+d (Dex),BIM (BCL2L11) deletion,0.0,0.0,1
+d (Dex),CRBN loss (Len resistance),0.0,0.0,1
+R (Len),STAT3 constitutive (IL-6/JAK),0.375,0.375,1
+R (Len),AKT activation,0.5,0.5,1
+R (Len),RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.125,1
+R (Len),Wnt / beta-catenin,0.125,0.125,1
+R (Len),NF-kB constitutive,0.5,0.5,1
+R (Len),TRAF3 loss / NIK amp (noncanon.),0.5,0.5,1
+R (Len),RANKL axis (bone),0.5,0.5,1
+R (Len),NF-kB upstream (TNF),0.5,0.5,1
+R (Len),MYC rearrangement,0.25,0.25,1
+R (Len),IRF4 high,0.0,0.25,1
+R (Len),CCND t(11;14)/t(14;16)/t(4;14),0.125,0.125,1
+R (Len),CDK4/6 activation,0.25,0.25,1
+R (Len),RB1 loss,0.125,0.125,1
+R (Len),mTOR activation,0.0,0.0,1
+R (Len),PI3K activation,0.5,0.5,1
+R (Len),IGF-1 axis,0.5,0.5,1
+R (Len),1q21 gain / MCL1 amp,0.25,0.25,1
+R (Len),BCL-XL/BCL-2 high,0.25,0.25,1
+R (Len),TP53 loss (del17p),0.0,0.0,1
+R (Len),PTEN loss,0.5,0.5,1
+R (Len),BIM (BCL2L11) deletion,0.0,0.0,1
+R (Len),CRBN loss (Len resistance),0.0,0.0,1
+Vd,STAT3 constitutive (IL-6/JAK),0.625,0.262,6
+Vd,AKT activation,0.5,0.0,3
+Vd,RAS/MAPK (KRAS/NRAS/BRAF),0.5,0.0,3
+Vd,Wnt / beta-catenin,0.25,0.0,3
+Vd,NF-kB constitutive,0.5,0.0,1
+Vd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+Vd,RANKL axis (bone),0.0,0.0,1
+Vd,NF-kB upstream (TNF),0.0,0.0,1
+Vd,MYC rearrangement,0.25,0.0,1
+Vd,IRF4 high,0.0,0.0,1
+Vd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+Vd,CDK4/6 activation,0.25,0.0,1
+Vd,RB1 loss,0.125,0.0,1
+Vd,mTOR activation,0.25,0.0,3
+Vd,PI3K activation,0.5,0.0,3
+Vd,IGF-1 axis,0.5,0.0,3
+Vd,1q21 gain / MCL1 amp,0.125,0.0,1
+Vd,BCL-XL/BCL-2 high,0.125,0.0,1
+Vd,TP53 loss (del17p),0.0,0.0,1
+Vd,PTEN loss,0.5,0.0,3
+Vd,BIM (BCL2L11) deletion,0.0,0.0,1
+Vd,CRBN loss (Len resistance),0.0,0.0,1
+Rd,STAT3 constitutive (IL-6/JAK),0.375,0.375,1
+Rd,AKT activation,0.0,0.0,1
+Rd,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+Rd,Wnt / beta-catenin,0.125,0.0,1
+Rd,NF-kB constitutive,0.375,0.0,1
+Rd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+Rd,RANKL axis (bone),0.0,0.0,1
+Rd,NF-kB upstream (TNF),0.0,0.0,1
+Rd,MYC rearrangement,0.25,0.0,1
+Rd,IRF4 high,0.0,0.0,1
+Rd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+Rd,CDK4/6 activation,0.25,0.0,1
+Rd,RB1 loss,0.125,0.0,1
+Rd,mTOR activation,0.0,0.0,1
+Rd,PI3K activation,0.0,0.0,2
+Rd,IGF-1 axis,0.125,0.042,2
+Rd,1q21 gain / MCL1 amp,0.125,0.0,1
+Rd,BCL-XL/BCL-2 high,0.125,0.0,1
+Rd,TP53 loss (del17p),0.0,0.0,1
+Rd,PTEN loss,0.0,0.0,2
+Rd,BIM (BCL2L11) deletion,0.0,0.0,1
+Rd,CRBN loss (Len resistance),0.0,0.0,1
+VR,STAT3 constitutive (IL-6/JAK),0.375,0.206,2
+VR,AKT activation,0.0,0.0,1
+VR,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+VR,Wnt / beta-catenin,0.125,0.0,1
+VR,NF-kB constitutive,0.5,0.283,2
+VR,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+VR,RANKL axis (bone),0.0,0.0,1
+VR,NF-kB upstream (TNF),0.0,0.0,1
+VR,MYC rearrangement,0.25,0.0,1
+VR,IRF4 high,0.0,0.0,1
+VR,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+VR,CDK4/6 activation,0.25,0.0,1
+VR,RB1 loss,0.125,0.0,1
+VR,mTOR activation,0.0,0.0,1
+VR,PI3K activation,0.0,0.0,1
+VR,IGF-1 axis,0.125,0.0,1
+VR,1q21 gain / MCL1 amp,0.125,0.0,1
+VR,BCL-XL/BCL-2 high,0.25,0.25,1
+VR,TP53 loss (del17p),0.0,0.0,1
+VR,PTEN loss,0.0,0.0,1
+VR,BIM (BCL2L11) deletion,0.0,0.0,1
+VR,CRBN loss (Len resistance),0.0,0.0,1
+DR,STAT3 constitutive (IL-6/JAK),0.375,0.288,2
+DR,AKT activation,0.5,0.346,2
+DR,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+DR,Wnt / beta-catenin,0.125,0.0,1
+DR,NF-kB constitutive,0.5,0.379,2
+DR,TRAF3 loss / NIK amp (noncanon.),0.5,0.329,2
+DR,RANKL axis (bone),0.5,0.292,2
+DR,NF-kB upstream (TNF),0.5,0.35,2
+DR,MYC rearrangement,0.25,0.0,1
+DR,IRF4 high,0.0,0.194,2
+DR,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+DR,CDK4/6 activation,0.25,0.0,1
+DR,RB1 loss,0.125,0.0,1
+DR,mTOR activation,0.0,0.0,1
+DR,PI3K activation,0.5,0.333,2
+DR,IGF-1 axis,0.5,0.225,2
+DR,1q21 gain / MCL1 amp,0.25,0.25,1
+DR,BCL-XL/BCL-2 high,0.25,0.25,1
+DR,TP53 loss (del17p),0.0,0.0,1
+DR,PTEN loss,0.5,0.221,2
+DR,BIM (BCL2L11) deletion,0.0,0.0,1
+DR,CRBN loss (Len resistance),0.0,0.0,1
+VRd,STAT3 constitutive (IL-6/JAK),0.375,0.181,2
+VRd,AKT activation,0.0,0.0,1
+VRd,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+VRd,Wnt / beta-catenin,0.125,0.0,1
+VRd,NF-kB constitutive,0.375,0.0,1
+VRd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+VRd,RANKL axis (bone),0.0,0.0,1
+VRd,NF-kB upstream (TNF),0.0,0.0,1
+VRd,MYC rearrangement,0.25,0.0,1
+VRd,IRF4 high,0.0,0.0,1
+VRd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+VRd,CDK4/6 activation,0.25,0.0,1
+VRd,RB1 loss,0.125,0.0,1
+VRd,mTOR activation,0.0,0.0,1
+VRd,PI3K activation,0.0,0.0,1
+VRd,IGF-1 axis,0.125,0.0,1
+VRd,1q21 gain / MCL1 amp,0.125,0.0,1
+VRd,BCL-XL/BCL-2 high,0.125,0.0,1
+VRd,TP53 loss (del17p),0.0,0.0,1
+VRd,PTEN loss,0.0,0.0,1
+VRd,BIM (BCL2L11) deletion,0.0,0.0,1
+VRd,CRBN loss (Len resistance),0.0,0.0,1
+DRd,STAT3 constitutive (IL-6/JAK),0.375,0.278,2
+DRd,AKT activation,0.0,0.0,1
+DRd,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+DRd,Wnt / beta-catenin,0.125,0.0,1
+DRd,NF-kB constitutive,0.375,0.0,1
+DRd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+DRd,RANKL axis (bone),0.0,0.0,1
+DRd,NF-kB upstream (TNF),0.0,0.0,1
+DRd,MYC rearrangement,0.25,0.0,1
+DRd,IRF4 high,0.0,0.0,1
+DRd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+DRd,CDK4/6 activation,0.25,0.0,1
+DRd,RB1 loss,0.125,0.0,1
+DRd,mTOR activation,0.0,0.0,1
+DRd,PI3K activation,0.0,0.0,1
+DRd,IGF-1 axis,0.125,0.0,1
+DRd,1q21 gain / MCL1 amp,0.125,0.0,1
+DRd,BCL-XL/BCL-2 high,0.125,0.0,1
+DRd,TP53 loss (del17p),0.0,0.0,1
+DRd,PTEN loss,0.0,0.0,1
+DRd,BIM (BCL2L11) deletion,0.0,0.0,1
+DRd,CRBN loss (Len resistance),0.0,0.0,1
+DVd,STAT3 constitutive (IL-6/JAK),0.625,0.241,6
+DVd,AKT activation,0.5,0.0,3
+DVd,RAS/MAPK (KRAS/NRAS/BRAF),0.5,0.0,3
+DVd,Wnt / beta-catenin,0.25,0.0,3
+DVd,NF-kB constitutive,0.5,0.0,1
+DVd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+DVd,RANKL axis (bone),0.0,0.0,1
+DVd,NF-kB upstream (TNF),0.0,0.0,1
+DVd,MYC rearrangement,0.25,0.0,1
+DVd,IRF4 high,0.0,0.0,1
+DVd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+DVd,CDK4/6 activation,0.25,0.0,1
+DVd,RB1 loss,0.125,0.0,1
+DVd,mTOR activation,0.25,0.0,3
+DVd,PI3K activation,0.5,0.0,3
+DVd,IGF-1 axis,0.5,0.0,3
+DVd,1q21 gain / MCL1 amp,0.125,0.0,1
+DVd,BCL-XL/BCL-2 high,0.125,0.0,1
+DVd,TP53 loss (del17p),0.0,0.0,1
+DVd,PTEN loss,0.5,0.0,3
+DVd,BIM (BCL2L11) deletion,0.0,0.0,1
+DVd,CRBN loss (Len resistance),0.0,0.0,1
+Isa-Rd,STAT3 constitutive (IL-6/JAK),0.375,0.291,2
+Isa-Rd,AKT activation,0.0,0.0,1
+Isa-Rd,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+Isa-Rd,Wnt / beta-catenin,0.125,0.0,1
+Isa-Rd,NF-kB constitutive,0.375,0.0,1
+Isa-Rd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+Isa-Rd,RANKL axis (bone),0.0,0.0,1
+Isa-Rd,NF-kB upstream (TNF),0.0,0.0,1
+Isa-Rd,MYC rearrangement,0.25,0.0,1
+Isa-Rd,IRF4 high,0.0,0.0,1
+Isa-Rd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+Isa-Rd,CDK4/6 activation,0.25,0.0,1
+Isa-Rd,RB1 loss,0.125,0.0,1
+Isa-Rd,mTOR activation,0.0,0.0,1
+Isa-Rd,PI3K activation,0.0,0.0,1
+Isa-Rd,IGF-1 axis,0.125,0.0,1
+Isa-Rd,1q21 gain / MCL1 amp,0.125,0.0,1
+Isa-Rd,BCL-XL/BCL-2 high,0.125,0.0,1
+Isa-Rd,TP53 loss (del17p),0.0,0.0,1
+Isa-Rd,PTEN loss,0.0,0.0,1
+Isa-Rd,BIM (BCL2L11) deletion,0.0,0.0,1
+Isa-Rd,CRBN loss (Len resistance),0.0,0.0,1
+D-VRd,STAT3 constitutive (IL-6/JAK),0.375,0.2,2
+D-VRd,AKT activation,0.0,0.0,1
+D-VRd,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+D-VRd,Wnt / beta-catenin,0.125,0.0,1
+D-VRd,NF-kB constitutive,0.375,0.0,1
+D-VRd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+D-VRd,RANKL axis (bone),0.0,0.0,1
+D-VRd,NF-kB upstream (TNF),0.0,0.0,1
+D-VRd,MYC rearrangement,0.25,0.0,1
+D-VRd,IRF4 high,0.0,0.0,1
+D-VRd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+D-VRd,CDK4/6 activation,0.25,0.0,1
+D-VRd,RB1 loss,0.125,0.0,1
+D-VRd,mTOR activation,0.0,0.0,1
+D-VRd,PI3K activation,0.0,0.0,1
+D-VRd,IGF-1 axis,0.125,0.0,1
+D-VRd,1q21 gain / MCL1 amp,0.125,0.0,1
+D-VRd,BCL-XL/BCL-2 high,0.125,0.0,1
+D-VRd,TP53 loss (del17p),0.0,0.0,1
+D-VRd,PTEN loss,0.0,0.0,1
+D-VRd,BIM (BCL2L11) deletion,0.0,0.0,1
+D-VRd,CRBN loss (Len resistance),0.0,0.0,1
+Isa-VRd,STAT3 constitutive (IL-6/JAK),0.375,0.203,2
+Isa-VRd,AKT activation,0.0,0.0,1
+Isa-VRd,RAS/MAPK (KRAS/NRAS/BRAF),0.125,0.0,1
+Isa-VRd,Wnt / beta-catenin,0.125,0.0,1
+Isa-VRd,NF-kB constitutive,0.375,0.0,1
+Isa-VRd,TRAF3 loss / NIK amp (noncanon.),0.0,0.0,1
+Isa-VRd,RANKL axis (bone),0.0,0.0,1
+Isa-VRd,NF-kB upstream (TNF),0.0,0.0,1
+Isa-VRd,MYC rearrangement,0.25,0.0,1
+Isa-VRd,IRF4 high,0.0,0.0,1
+Isa-VRd,CCND t(11;14)/t(14;16)/t(4;14),0.125,0.0,1
+Isa-VRd,CDK4/6 activation,0.25,0.0,1
+Isa-VRd,RB1 loss,0.125,0.0,1
+Isa-VRd,mTOR activation,0.0,0.0,1
+Isa-VRd,PI3K activation,0.0,0.0,1
+Isa-VRd,IGF-1 axis,0.125,0.0,1
+Isa-VRd,1q21 gain / MCL1 amp,0.125,0.0,1
+Isa-VRd,BCL-XL/BCL-2 high,0.125,0.0,1
+Isa-VRd,TP53 loss (del17p),0.0,0.0,1
+Isa-VRd,PTEN loss,0.0,0.0,1
+Isa-VRd,BIM (BCL2L11) deletion,0.0,0.0,1
+Isa-VRd,CRBN loss (Len resistance),0.0,0.0,1

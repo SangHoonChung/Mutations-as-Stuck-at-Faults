@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Mutations-as-Stuck-at-Faults: logic-circuit / FSM model of multiple myeloma signaling"
+authors:
+  - family-names: Chung
+    given-names: Sang Hoon
+  - family-names: Mondal
+    given-names: Madhurima
+  - family-names: Reeves
+    given-names: Norman
+  - family-names: Datta
+    given-names: Aniruddha
+version: "1.0.0"
+date-released: "2026-10-07"
+license: MIT
+repository-code: "https://github.com/SangHoonChung/Mutations-as-Stuck-at-Faults"
+preferred-citation:
+  type: conference-paper
+  title: "Mutations as Stuck-at Faults: A Logic-Circuit and Finite-State-Machine Formalization of Boolean Cancer Signaling Networks, with HDL Export --- A Multiple Myeloma Case Study"
+  authors:
+    - family-names: Chung
+      given-names: Sang Hoon
+    - family-names: Mondal
+      given-names: Madhurima
+    - family-names: Reeves
+      given-names: Norman
+    - family-names: Datta
+      given-names: Aniruddha
+  collection-title: "Proceedings of the 2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  conference:
+    name: "IEEE BIBM 2026"
+    city: "Dallas, TX"
+    country: "US"
+  year: 2026

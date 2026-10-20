@@ -1,0 +1,18 @@
+perturbation,rho_rank_vs_baseline,fate_multistab_pct
+baseline,1.0,15.5
+rm MYC->IRF4 (open loop),0.944,12.5
+rm IRF4->MYC (open loop),0.951,15.5
+rm IRF4->MCL1,0.979,11.7
+rm APOP latch,0.93,2.3
+flip PI3K OR->AND,1.0,13.3
+flip NFKB OR->AND,1.0,13.3
+flip MYC OR->AND,0.944,13.3
+flip CCND2 OR->AND,0.972,15.5
+flip MDM2 OR->AND,0.979,15.5
+flip P21 OR->AND,0.993,15.5
+flip CDK46 AND->OR,0.972,15.5
+flip MCL1 OR->AND,0.979,11.7
+flip BCLXL OR->AND,0.916,13.3
+flip IRF4 OR->AND,0.944,12.5
+flip guarded OR->AND,0.734,9.5
+flip pro OR->AND,0.811,2.3

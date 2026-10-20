@@ -1,0 +1,6 @@
+regimen,n_drugs,single,double,triple
+Btz+Dex+Len (VRd),3,0.0081,0.0282,0.0616
+Isa+Btz+Dex+Len,4,0.0081,0.0282,0.0616
+Dara+Btz+Dex+Len,4,0.0081,0.0282,0.0616
+Isa+Btz+Dex,3,0.011,0.0402,0.0865
+Btz+Dex,2,0.011,0.0402,0.0865
