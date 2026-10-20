@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# script outputs (reference copies live in data/ and figures/)
+src/*.csv
+src/*.png
+src/*.svg
+src/*.npy
+src/circuit.dot
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+paper/*.pdf
+# Verilog sim
+hdl/*.vvp
+hdl/mm_tb
+hdl/mm_equiv
+hdl/equiv_vectors.txt
+# OS
+.DS_Store
+Thumbs.db
